@@ -37,7 +37,7 @@ class book
 	}
 }
 
-class bookdemo
+class book_demo
 {
 	public static void main(String args[])	
 	{
