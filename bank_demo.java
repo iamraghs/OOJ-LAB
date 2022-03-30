@@ -149,7 +149,7 @@ class savings extends bank
 
 class current extends bank
 {
-    double bal = 0.0;
+     double bal = 0.0;
 	int choice;
 	int min_bal = 1000;
 	int ci,w_amt;
